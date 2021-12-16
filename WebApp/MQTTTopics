@@ -1,0 +1,15 @@
+
+WebApp Topics
+WebApp is Subscibed to
+swm-device/SmartWaterMonitor/pressure
+swm-device/SmartWaterMonitor/eventPressureLimitChanged
+swm-device/SmartWaterMonitor/relayState
+
+
+Device Topics
+
+ESP32 is Subsribed to
+SmartWaterMonitor/relay 
+
+ESP32 Publishes to
+SmartWaterMonitor/pressure
